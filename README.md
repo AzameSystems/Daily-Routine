@@ -1,2 +1,2 @@
 # Daily-Routine
-More Control Over Time, Increased Time-Perception, Consistency Framework
+System to have better relationship with time
